@@ -1,0 +1,46 @@
+1718408846881	geckodriver	INFO	Listening on 127.0.0.1:16801
+1718408849975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "16802" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofile32SMvL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718408850351	Marionette	INFO	Marionette enabled
+1718408850434	Marionette	INFO	Listening on port 16814
+WebDriver BiDi listening on ws://127.0.0.1:16802
+Read port: 16814
+1718408850650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:16802/devtools/browser/05e1dc3b-0788-4a0b-9972-6dc3dd2b1eb7
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1718408880422	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+console.error: "buildList failed: " ({})
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M, line 309: Script terminated by timeout at:
+wm@https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M:309:409
+mn@https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M:317:742
+lH/<@https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M:609:178
+ca.Nk/<@https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M:556:126
+ca.Nk/c/<@https://www.googletagmanager.com/gtag/js?id=G-BVL1WD6W4M:555:420
+
+1718410158479	Marionette	INFO	Stopped listening on port 16814
+Dynamically enable window occlusion 1
+1718410170016	geckodriver	INFO	Listening on 127.0.0.1:17036
+1718410173071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "17037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\FELIXJ~1\\AppData\\Local\\Temp\\rust_mozprofileLhyQcn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1718410173393	Marionette	INFO	Marionette enabled
+1718410173459	Marionette	INFO	Listening on port 17044
+WebDriver BiDi listening on ws://127.0.0.1:17037
+Read port: 17044
+1718410173611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:17037/devtools/browser/e274f705-aa1a-433c-83a3-5d6645a4343e
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1718410184359	Marionette	INFO	Stopped listening on port 17044
+JavaScript warning: https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js, line 1: Script terminated by timeout at:
+c@https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js:1:606
+a/t<@https://cdn.jsdelivr.net/npm/progressive-image.js/dist/progressive-image.js:1:582
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
